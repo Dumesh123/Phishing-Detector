@@ -25,10 +25,10 @@ python3 phishing_detector.py
 2. Install the required libraries:
 
 
-*bash
-*pip install validators requests
+```bash
+pip install validators requests
 
-
+```
 
 Developer
 
