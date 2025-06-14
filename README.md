@@ -32,7 +32,7 @@ pip install validators requests
 python3 phishing_detector.py
 ```
 
-Developer
+## Developer
 
 Made by Dilan Umesh
 For cybersecurity awareness and learning.
@@ -40,6 +40,6 @@ Sri Lanka 🇱🇰
 
 
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This tool is for educational and cybersecurity awareness purposes only. Always validate findings manually. Do not use this tool for malicious purposes.
