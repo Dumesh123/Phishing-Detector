@@ -25,6 +25,8 @@ This is a phishing link detection tool I made using Python. It uses a simple GUI
 
 ```bash
 pip install validators requests
+```
+```bash
 python3 phishing_detector.py
 ```
 
