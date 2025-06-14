@@ -17,8 +17,6 @@ This is a phishing link detection tool I made using Python. It uses a simple GUI
 
 ## How to Run
 
-python3 phishing_detector.py
-
 
 
 1. Make sure you have **Python 3** installed.
@@ -27,7 +25,7 @@ python3 phishing_detector.py
 
 ```bash
 pip install validators requests
-
+python3 phishing_detector.py
 ```
 
 Developer
